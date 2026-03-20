@@ -54,6 +54,8 @@ The system processes input frames through the following stages:
 ```regex
 [A-Z]{3}[0-9]{3}[A-Z]
 
+✔️ Example: RAB123C
+
 
 🔁 5. Temporal Smoothing (temporal.py)
 
